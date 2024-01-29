@@ -166,6 +166,9 @@ h1 {
     center/cover;
   height: 80vh;
 }
+.name{
+  padding:20px 30px;
+}
 .email {
   padding: 20px 30px;
 }
@@ -173,13 +176,36 @@ h1 {
   padding: 20px 30px;
 }
 .message {
-  padding: 40px 60px;
+  padding: 50px 70px;
 }
 .lable {
-  margin: 20px;
-  border: none;
-  float: left;
+  margin:30px;
+  padding: 20px 30px;
+  width:20%;
 }
 .lables-css:nth-child(2) {
-  margin: 0 90px;
+  margin: 0 20px;;
+}
+.btn {
+  float: left;
+  margin: 20px 0;
+}
+.org-btn{
+margin:100px auto
+}
+.logo{
+  float:left;
+  font-size:9px;
+}
+.nice{
+  float:left;
+  width:50px;
+  margin:150px 10px;
+  text-align:left;
+}
+.nice-footer:nth-child(2){
+  margin:0 20px;
+}
+
+.link{
 }
